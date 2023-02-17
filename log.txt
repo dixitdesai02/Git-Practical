@@ -1,0 +1,28 @@
+01fce35 HEAD@{1}: reset: moving to HEAD~1
+744b197 HEAD@{2}: commit: Commit to be dropped!
+01fce35 HEAD@{3}: checkout: moving from feature to development
+480f315 HEAD@{4}: checkout: moving from development to feature
+01fce35 HEAD@{5}: cherry-pick: Update css by adding new styles
+f9fff80 HEAD@{6}: checkout: moving from feature to development
+480f315 HEAD@{7}: commit: Update css by adding new styles
+9e5927b HEAD@{8}: checkout: moving from development to feature
+f9fff80 HEAD@{9}: commit (amend): Add DOB feature in app.js
+aed0097 HEAD@{10}: rebase (finish): returning to refs/heads/development
+aed0097 HEAD@{11}: rebase (pick): Update app.js
+9e5927b HEAD@{12}: rebase (start): checkout feature
+faf067b HEAD@{13}: checkout: moving from feature to development
+9e5927b HEAD@{14}: commit: Add a link of stylesheet in index.html
+abce97d HEAD@{15}: reset: moving to HEAD~1
+416fc5b HEAD@{16}: commit: Add a link of stylesheet in index.html
+abce97d HEAD@{17}: checkout: moving from development to feature
+faf067b HEAD@{18}: commit: Update app.js
+abce97d HEAD@{19}: checkout: moving from feature to development
+abce97d HEAD@{20}: checkout: moving from development to feature
+abce97d HEAD@{21}: commit: Create app.js
+be49b61 HEAD@{22}: pull --set-upstream origin development: Fast-forward
+c608439 HEAD@{23}: checkout: moving from feature to development
+f12b9bc HEAD@{24}: commit: Create styles.css
+3c3a773 HEAD@{25}: commit: Create index.html
+c608439 HEAD@{26}: checkout: moving from development to feature
+c608439 HEAD@{27}: checkout: moving from master to development
+c608439 HEAD@{28}: commit (initial): Initial Commit
